@@ -6,7 +6,7 @@ const Hero = () => {
     <div 
       className="min-h-screen relative flex items-center"
       style={{
-        backgroundImage: 'linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://images.unsplash.com/photo-1635424710928-0544e8512eae?auto=format&fit=crop&q=80")',
+        backgroundImage: 'linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("https://github.com/Ireneamons/Juja_Mabati/blob/main/src/components/Hero%20Roofing%20Image.jpg?raw=true")',
         backgroundSize: 'cover',
         backgroundPosition: 'center'
       }}
