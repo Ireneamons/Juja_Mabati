@@ -4,7 +4,7 @@ import ScrollButton from './common/ScrollButton';
 const products = [
   {
     name: 'Box Profile',
-    image: 'https://images.unsplash.com/photo-1635424710928-0544e8512eae?auto=format&fit=crop&q=80',
+    image: 'https://github.com/Ireneamons/Juja_Mabati/blob/main/src/components/Box%20Profile%20Roofing%20Sheets.jpeg?raw=true',
     description: 'Modern design with superior strength and water resistance.',
     specs: [
       'Thickness: 0.32mm - 0.5mm',
@@ -14,7 +14,7 @@ const products = [
   },
   {
     name: 'Corrugated',
-    image: 'https://images.unsplash.com/photo-1518618750560-8f07abde4c6c?auto=format&fit=crop&q=80',
+    image: 'https://raw.githubusercontent.com/Ireneamons/Juja_Mabati/refs/heads/main/src/components/Corrugated%20Iron%20Sheets.webp',
     description: 'Traditional wave pattern perfect for various applications.',
     specs: [
       'Thickness: 0.30mm - 0.45mm',
@@ -24,7 +24,7 @@ const products = [
   },
   {
     name: 'Tile',
-    image: 'https://images.unsplash.com/photo-1632759145351-1d592919f522?auto=format&fit=crop&q=80',
+    image: 'https://github.com/Ireneamons/Juja_Mabati/blob/main/src/components/Tile%20Roofing%20Sheets.jpg?raw=true',
     description: 'Elegant tile appearance with metal sheet durability.',
     specs: [
       'Thickness: 0.35mm - 0.55mm',
