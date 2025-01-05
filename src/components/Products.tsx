@@ -7,9 +7,9 @@ const products = [
     image: 'https://github.com/Ireneamons/Juja_Mabati/blob/main/src/components/Box%20Profile%20Roofing%20Sheets.jpeg?raw=true',
     description: 'Modern design with superior strength and water resistance.',
     specs: [
-      'Thickness: 0.32mm - 0.5mm',
-      'Width: 1060mm',
-      'Length: Customizable'
+      'Gauge: 28 and 30',
+      'Price: Kshs. 500/Metre',
+      'Colors: Glossy and Matte'
     ]
   },
   {
@@ -17,19 +17,22 @@ const products = [
     image: 'https://raw.githubusercontent.com/Ireneamons/Juja_Mabati/refs/heads/main/src/components/Corrugated%20Iron%20Sheets.webp',
     description: 'Traditional wave pattern perfect for various applications.',
     specs: [
-      'Thickness: 0.30mm - 0.45mm',
-      'Width: 1050mm',
-      'Length: Customizable'
+      'Gauge: 28 and 30',
+      'Price: From Kshs.480/Metre',
+      'Colors: Glossy and Matte',
+      'Non-Colored:',
+      'Gauge: 30 and 32',
+      'Price: From Kshs. 300/Metre'
     ]
   },
   {
-    name: 'Tile',
+    name: 'V-Tile','R-Tile','Brick-Tile','Euro-Tile',
     image: 'https://github.com/Ireneamons/Juja_Mabati/blob/main/src/components/Tile%20Roofing%20Sheets.jpg?raw=true',
     description: 'Elegant tile appearance with metal sheet durability.',
     specs: [
-      'Thickness: 0.35mm - 0.55mm',
-      'Width: 1080mm',
-      'Length: Customizable'
+     'Gauge: 28 and 30',
+      'Price: From Kshs.650/Metre',
+      'Colors: Glossy and Matte'
     ]
   }
 ];
