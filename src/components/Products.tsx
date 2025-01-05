@@ -26,13 +26,14 @@ const products = [
     ]
   },
   {
-    name: 'V-Tile','R-Tile','Brick-Tile','Euro-Tile',
+    name: 'Tile',
     image: 'https://github.com/Ireneamons/Juja_Mabati/blob/main/src/components/Tile%20Roofing%20Sheets.jpg?raw=true',
     description: 'Elegant tile appearance with metal sheet durability.',
     specs: [
      'Gauge: 28 and 30',
       'Price: From Kshs.650/Metre',
-      'Colors: Glossy and Matte'
+      'Colors: Glossy and Matte',
+      'Available Types: V-Tile, R-Tile, Brick-Tile, Euro-Tile'
     ]
   }
 ];
