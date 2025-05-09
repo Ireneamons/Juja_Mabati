@@ -1,4 +1,4 @@
-import React from 'react';
+roofimport React from 'react';
 import { Phone, Mail, MapPin } from 'lucide-react';
 
 const Footer = () => {
@@ -12,7 +12,7 @@ const Footer = () => {
         <div className="grid md:grid-cols-4 gap-8">
           <div>
             <h3 className="text-xl font-bold mb-4">Juja Mabati Factory</h3>
-            <p className="text-gray-400 mb-2">The Forever Roof</p>
+            <p className="text-gray-400 mb-2">The Forever Mabati</p>
             <div className="bg-yellow-500 text-black font-semibold px-4 py-2 rounded inline-block">
               FREE DELIVERY COUNTRYWIDE WITHIN 48HRS
             </div>
@@ -37,7 +37,7 @@ const Footer = () => {
               </li>
               <li className="flex items-center gap-2">
                 <Mail size={20} className="text-gray-400" />
-                <span>jujamabatiltd@gmail.com</span>
+                <span>jujamabatifactoryltd@gmail.com</span>
               </li>
               <li className="flex items-center gap-2">
                 <MapPin size={20} className="text-gray-400" />
