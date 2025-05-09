@@ -22,7 +22,7 @@ const Navbar = () => {
           <div className="flex items-center">
             <h1 className="text-2xl font-bold text-gray-800 cursor-pointer" onClick={scrollToTop}>
               Juja Mabati Factory
-              <span className="block text-sm text-gray-600">The Forever Roof</span>
+              <span className="block text-sm text-gray-600">The Forever Mabati</span>
             </h1>
           </div>
           
